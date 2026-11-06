@@ -1,0 +1,13 @@
+PORT=3005
+DB_HOST=localhost
+DB_USER=postgres
+DB_PASSWORD=147147
+DB_DATABASE=postgres
+SERVER_HOST=http://localhost:3005
+CLIENT_HOST=http://localhost:5173
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=fullstack.test145@gmail.com
+SMTP_PASSWORD=nfge wjvh qfct hswh
+JWT_KEY=hello
+JWT_REFRESH_KEY=goodbye
